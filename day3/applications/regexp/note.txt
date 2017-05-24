@@ -1,0 +1,8 @@
+regularb expressions are *very* tricky
+
+use them with caution.
+
+for every simple substring searching, dont use regexps simply
+
+use "find" method on strings
+
